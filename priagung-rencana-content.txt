@@ -1,0 +1,6 @@
+RENCANA KONTEN PRIAGUNG
+
+-Belajar PHP
+-Belajar Framework Laravel 8
+-Belajar Database
+-Laravel 100% 
