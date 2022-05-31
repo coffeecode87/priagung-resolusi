@@ -1,0 +1,9 @@
+RENCANA KONTEN PRIAGUNG
+
+-Belajar PH
+  *PHP Dasar 
+  *Syntax PHP
+-Belajar Framework Laravel 8
+  *Install & configurasi
+-Belajar Database
+-Laravel 100% 
