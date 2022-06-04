@@ -3,6 +3,7 @@ RENCANA KONTEN PRIAGUNG
 -Berdoa dan semangat untuk belajar
 -Belajar HTML
 -Belajar CSS
+-Belajar JavaScript
 -Belajar PHP
   *PHP Dasar 
   *Syntax PHP
