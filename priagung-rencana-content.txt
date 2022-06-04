@@ -1,10 +1,9 @@
 RENCANA KONTEN PRIAGUNG
 
 -Berdoa dan semangat untuk belajar
--Belajar PH
-  *PHP Dasar 
-  *Syntax PHP
--Belajar Framework Laravel 8
-  *Install & configurasi
+-Belajar HTML
+-Belajar CSS
+-Belajar JavaScript
+-Belajar Bootstrap
 -Belajar Database
 -Laravel 100% 
