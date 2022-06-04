@@ -1,7 +1,9 @@
 RENCANA KONTEN PRIAGUNG
 
 -Berdoa dan semangat untuk belajar
--Belajar PH
+-Belajar HTML
+-Belajar CSS
+-Belajar PHP
   *PHP Dasar 
   *Syntax PHP
 -Belajar Framework Laravel 8
